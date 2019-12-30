@@ -48,7 +48,7 @@
 10. [User Interface](#User-Interface)
 11. [Contributor](#Contributor)
 12. [License](#License)
-13. [Referrence Document] (#Referrence-document)
+13. [Referrence Document](#Referrence-document)
 
 ## Philosophy ##
 A lot of work has gone into Spring Boot to reduce complexity and dependencies, which largely alleviates our previous reservations. If you live in a Spring ecosystem and are moving to microservices, Spring Boot is now the obvious choice. Spring Boot allows easy set up of standalone Spring-based applications. It's ideal for pulling up new microservices and easy to deploy. It also makes data access less of a pain due to the hibernate mappings with much less boilerplate code. You can get started with minimum fuss due to it taking an opinionated view of the Spring platform and third-party libraries. Most Spring Boot applications need very little Spring configuration. 
@@ -419,5 +419,5 @@ Here are the various screens of the Admin portal that you should be able to use 
 This project is licensed under the terms of the MIT license.
 
 ## Reference-document ##
-[Part 1 - Medium] (https://medium.com/the-resonant-web/spring-boot-2-0-starter-kit-part-1-23ddff0c7da2)
-[Part 2 - Medium] (https://medium.com/the-resonant-web/spring-boot-2-0-project-structure-and-best-practices-part-2-7137bdcba7d3)
+1. Part 1: https://medium.com/the-resonant-web/spring-boot-2-0-starter-kit-part-1-23ddff0c7da2
+2. Part 2: https://medium.com/the-resonant-web/spring-boot-2-0-project-structure-and-best-practices-part-2-7137bdcba7d3
